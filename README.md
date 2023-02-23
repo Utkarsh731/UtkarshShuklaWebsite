@@ -4,11 +4,7 @@
 TechStack-
 
 Python (Flask Framework)
-
 Jinja2 Template
-
 HTML
-
 CSS
-
 JS
