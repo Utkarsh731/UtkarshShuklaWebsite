@@ -1,7 +1,7 @@
 # Utkarsh Shukla Website
 [Utkarsh Shukla Website](https://www.utkarshshukla.com/)
 
-TechStack-
+TechStack for the Website-
 
 Python (Flask Framework)
 
