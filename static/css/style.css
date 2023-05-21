@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #00AEAE;
   text-decoration: none;
 }
 
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #149ddd;
+  background: #00AEAE;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: #00AEAE;
   color: #fff;
   text-decoration: none;
 }
@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu .active:focus i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #00AEAE;
 }
 
 /* Mobile Navigation */
@@ -163,7 +163,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: #00AEAE;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #00AEAE;
 }
 @media (min-width: 1024px) {
   #hero {
@@ -263,7 +263,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #003d4b;
 }
 .section-title h2::after {
   content: "";
@@ -271,7 +271,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #00AEAE;
   bottom: 0;
   left: 0;
 }
@@ -285,7 +285,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #003d4b;
 }
 .about .content ul {
   list-style: none;
@@ -302,7 +302,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #149ddd;
+  color: #00AEAE;
   line-height: 0;
 }
 .about .content p:last-child {
@@ -322,7 +322,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #00AEAE;
   float: left;
   line-height: 0;
 }
@@ -384,7 +384,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #00AEAE;
 }
 
 /*--------------------------------------------------------------
@@ -469,7 +469,7 @@ section {
   transition: all 0.3s ease-in-out;
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+  color: #00AEAE;
 }
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
@@ -547,10 +547,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #149ddd;
+  border: 1px solid #00AEAE;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #149ddd;
+  background-color: #00AEAE;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
@@ -596,10 +596,10 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #00AEAE;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #149ddd;
+  border: 1px solid #00AEAE;
 }
 .services .icon i {
   color: #fff;
@@ -610,7 +610,7 @@ section {
   background: #fff;
 }
 .services .icon-box:hover .icon i {
-  color: #149ddd;
+  color: #00AEAE;
 }
 .services .title {
   margin-left: 80px;
@@ -622,7 +622,7 @@ section {
   color: #343a40;
 }
 .services .title a:hover {
-  color: #149ddd;
+  color: #00AEAE;
 }
 .services .description {
   margin-left: 80px;
@@ -702,10 +702,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #149ddd;
+  border: 1px solid #00AEAE;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #149ddd;
+  background-color: #00AEAE;
 }
 
 /*--------------------------------------------------------------
@@ -722,7 +722,7 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #00AEAE;
   float: left;
   width: 44px;
   height: 44px;
@@ -744,7 +744,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color: #003d4b;
 }
 .contact .info .email p {
   padding-top: 5px;
@@ -767,11 +767,11 @@ section {
   margin-right: 10px;
 }
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: #00AEAE;
   color: #fff;
 }
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #00AEAE;
   color: #fff;
 }
 .contact .php-email-form {
@@ -845,7 +845,7 @@ section {
   padding: 10px 15px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #149ddd;
+  background: #00AEAE;
   border: 0;
   padding: 10px 24px;
   color: #fff;
